@@ -1,5 +1,7 @@
 # Work Simplr — Content Sample Library
 
+![Curiosity over Noise — Jodi Mac](./assets/banner.html)
+
 > *"Curiosity over noise. The antithesis of the typical POV."*
 
 ---
@@ -27,17 +29,17 @@ This is the antithesis of the typical POV. No listicles disguised as strategy. N
 
 ## Categories
 
-| Category | What It Covers |
-|---|---|
-| [AI & Small Business](./ai-and-small-business/) | AI tools, automation, and productivity for SMBs |
-| [AI & Career](./ai-and-career/) | AI's impact on job searching, skills, and career growth |
-| [LifeLab.One Hub](./lifelab-one-hub/) | School-to-career content for the LifeLab community |
-| [Future of Work](./future-of-work/) | The shifting workforce and emerging talent models |
-| [Human Enablement](./human-enablement/) | Augmenting humans with AI — not replacing them |
-| [Startup Savvy](./startup-savvy/) | Founder lessons, fundraising, GTM, and building |
-| [Chicks Got Game](./chicks-got-game/) | Female innovators, founders, and leaders |
-| [SprintWork Methodology](./sprintwork-methodology/) | The SprintWork™ framework and delivery system |
-| [Workforce Development](./workforce-development/) | Emerging talent, workforce data, and hiring futures |
+| | Category | What It Covers |
+|---|---|---|
+| ![](./assets/icons/ai-and-small-business.svg) | [AI & Small Business](./ai-and-small-business/) | AI tools, automation, and productivity for SMBs |
+| ![](./assets/icons/ai-and-career.svg) | [AI & Career](./ai-and-career/) | AI's impact on job searching, skills, and career growth |
+| ![](./assets/icons/lifelab-one-hub.svg) | [LifeLab.One Hub](./lifelab-one-hub/) | School-to-career content for the LifeLab community |
+| ![](./assets/icons/future-of-work.svg) | [Future of Work](./future-of-work/) | The shifting workforce and emerging talent models |
+| ![](./assets/icons/human-enablement.svg) | [Human Enablement](./human-enablement/) | Augmenting humans with AI — not replacing them |
+| ![](./assets/icons/startup-savvy.svg) | [Startup Savvy](./startup-savvy/) | Founder lessons, fundraising, GTM, and building |
+| ![](./assets/icons/chicks-got-game.svg) | [Chicks Got Game](./chicks-got-game/) | Female innovators, founders, and leaders |
+| ![](./assets/icons/sprintwork-methodology.svg) | [SprintWork Methodology](./sprintwork-methodology/) | The SprintWork™ framework and delivery system |
+| ![](./assets/icons/workforce-development.svg) | [Workforce Development](./workforce-development/) | Emerging talent, workforce data, and hiring futures |
 
 ---
 

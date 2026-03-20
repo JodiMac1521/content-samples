@@ -1,0 +1,12 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#1B1F5C"/>
+  <rect x="8" y="8" width="104" height="104" rx="20" fill="none" stroke="rgba(245,165,36,0.2)" stroke-width="1"/>
+  <!-- Person -->
+  <circle cx="60" cy="38" r="10" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path d="M40 75 Q40 58 60 58 Q80 58 80 75" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+  <!-- Orbit ring (AI) -->
+  <ellipse cx="60" cy="56" rx="26" ry="10" fill="none" stroke="rgba(245,165,36,0.4)" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <!-- Power bolt -->
+  <path d="M64 28 L58 38 L63 38 L57 50 L66 36 L61 36Z" fill="#F5A524"/>
+  <text x="60" y="98" text-anchor="middle" font-size="7.5" fill="rgba(255,255,255,0.5)" font-family="Arial" letter-spacing="0.5">HUMAN ENABLEMENT</text>
+</svg>

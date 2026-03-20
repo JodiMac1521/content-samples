@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#1B1F5C"/>
+  <rect x="8" y="8" width="104" height="104" rx="20" fill="none" stroke="rgba(245,165,36,0.2)" stroke-width="1"/>
+  <!-- Sprint track circle -->
+  <circle cx="60" cy="56" r="26" fill="none" stroke="rgba(245,165,36,0.2)" stroke-width="6"/>
+  <path d="M60 30 A26 26 0 0 1 86 56" fill="none" stroke="#F5A524" stroke-width="6" stroke-linecap="round"/>
+  <!-- Checkmark -->
+  <polyline points="48,56 57,65 73,47" fill="none" stroke="#2EAA8A" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Speed lines -->
+  <line x1="28" y1="44" x2="36" y2="44" stroke="rgba(245,165,36,0.4)" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="24" y1="52" x2="34" y2="52" stroke="rgba(245,165,36,0.3)" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="60" y="98" text-anchor="middle" font-size="7.5" fill="rgba(255,255,255,0.5)" font-family="Arial" letter-spacing="0.5">SPRINTWORK™</text>
+</svg>

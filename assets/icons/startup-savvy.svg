@@ -1,0 +1,14 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#1B1F5C"/>
+  <rect x="8" y="8" width="104" height="104" rx="20" fill="none" stroke="rgba(245,165,36,0.2)" stroke-width="1"/>
+  <!-- Chart bars -->
+  <rect x="30" y="62" width="12" height="16" rx="2" fill="rgba(46,170,138,0.6)"/>
+  <rect x="47" y="50" width="12" height="28" rx="2" fill="rgba(46,170,138,0.8)"/>
+  <rect x="64" y="38" width="12" height="40" rx="2" fill="#2EAA8A"/>
+  <!-- Arrow up -->
+  <polyline points="30,58 47,46 64,34 88,24" fill="none" stroke="#F5A524" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="88,24 80,26 84,32" fill="#F5A524"/>
+  <!-- baseline -->
+  <line x1="26" y1="78" x2="94" y2="78" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+  <text x="60" y="98" text-anchor="middle" font-size="8" fill="rgba(255,255,255,0.5)" font-family="Arial" letter-spacing="0.5">STARTUP SAVVY</text>
+</svg>

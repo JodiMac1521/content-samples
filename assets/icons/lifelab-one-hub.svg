@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#1B1F5C"/>
+  <rect x="8" y="8" width="104" height="104" rx="20" fill="none" stroke="rgba(46,170,138,0.3)" stroke-width="1"/>
+  <!-- Bridge arch -->
+  <path d="M28 72 Q60 32 92 72" fill="none" stroke="#2EAA8A" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Bridge deck -->
+  <line x1="24" y1="72" x2="96" y2="72" stroke="#F5A524" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Cables -->
+  <line x1="60" y1="40" x2="44" y2="72" stroke="rgba(46,170,138,0.5)" stroke-width="1"/>
+  <line x1="60" y1="40" x2="60" y2="72" stroke="rgba(46,170,138,0.5)" stroke-width="1"/>
+  <line x1="60" y1="40" x2="76" y2="72" stroke="rgba(46,170,138,0.5)" stroke-width="1"/>
+  <!-- Person walking -->
+  <circle cx="68" cy="68" r="3.5" fill="#ffffff"/>
+  <text x="60" y="98" text-anchor="middle" font-size="8.5" fill="rgba(255,255,255,0.5)" font-family="Arial" letter-spacing="0.5">LIFELAB</text>
+</svg>

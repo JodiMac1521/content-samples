@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#1B1F5C"/>
+  <rect x="8" y="8" width="104" height="104" rx="20" fill="none" stroke="rgba(245,165,36,0.2)" stroke-width="1"/>
+  <!-- Hourglass -->
+  <path d="M38 30 L82 30 L60 58 L82 86 L38 86 L60 58 Z" fill="none" stroke="#F5A524" stroke-width="2" stroke-linejoin="round"/>
+  <line x1="36" y1="30" x2="84" y2="30" stroke="#F5A524" stroke-width="2.5" stroke-linecap="round"/>
+  <line x1="36" y1="86" x2="84" y2="86" stroke="#F5A524" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Sand top -->
+  <path d="M42 34 L78 34 L60 54Z" fill="rgba(245,165,36,0.15)"/>
+  <!-- Sand bottom dot -->
+  <circle cx="60" cy="78" r="4" fill="rgba(245,165,36,0.35)"/>
+  <!-- sparkle -->
+  <circle cx="84" cy="36" r="2" fill="#2EAA8A"/>
+  <text x="60" y="98" text-anchor="middle" font-size="8" fill="rgba(255,255,255,0.5)" font-family="Arial" letter-spacing="0.5">FUTURE OF WORK</text>
+</svg>
