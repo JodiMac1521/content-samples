@@ -1,6 +1,6 @@
 # Work Simplr — Content Sample Library
 
-![Curiosity over Noise — Jodi Mac](./assets/banner.html)
+![Curiosity over Noise — Jodi Mac](./assets/banner.png)
 
 > *"Curiosity over noise. The antithesis of the typical POV."*
 
