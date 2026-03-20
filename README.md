@@ -1,6 +1,27 @@
 # Work Simplr — Content Sample Library
 
-A structured library of content categories and sample posts for Work Simplr, LifeLab.One, and the Chicks Got Game podcast. Each folder contains placeholder articles ready to draft, each built on a consistent framework: Hook → Problem → Insight → Evidence → Takeaway → CTA.
+> *"Curiosity over noise. The antithesis of the typical POV."*
+
+---
+
+## The Writing Philosophy
+
+Most content tells you what you already know, dressed up in a new font.
+
+This library is built on a different premise: that the most valuable thing a writer can offer is **a frame the reader hasn't seen before** — one that makes them stop, reconsider, and think *I never thought about it that way.*
+
+Every piece in this library is built on three commitments:
+
+**1. Well-researched thought leadership.**
+Not opinions dressed as insights. Real research, real data, real stories from the field — then connected to something bigger. The kind of writing that earns trust because it does the homework first.
+
+**2. Storytelling that earns its point.**
+The insight doesn't come first. The story does. The human moment, the unexpected detail, the tension that makes the reader lean in — that's what carries the idea. The argument lands because you felt it before you understood it.
+
+**3. Curiosity over noise.**
+The internet has no shortage of hot takes. This content asks different questions. It goes sideways when everyone else goes straight. It respects the reader enough to be genuinely surprising — not contrarian for clicks, but curious by default. If the obvious answer is already out there, we're not writing about it. We're writing about what's underneath it.
+
+This is the antithesis of the typical POV. No listicles disguised as strategy. No buzzwords filling the space where thinking should be. No content that sounds smart and says nothing.
 
 ---
 
@@ -20,20 +41,24 @@ A structured library of content categories and sample posts for Work Simplr, Lif
 
 ---
 
-## Post Template Structure
+## The Post Framework
 
-Every placeholder uses the same framework:
+Every piece is built on the same architecture — because structure is what lets the story run free:
 
 ```
-## Hook       — the scroll-stopper
-## Problem    — the tension this addresses
-## Insight    — the non-obvious angle
-## Evidence   — proof: stat, story, or analogy
-## Takeaway   — what the reader does differently
-## CTA        — where they go next
+## Hook       — the one line that makes them stop scrolling
+## The Problem — not the surface problem. The real one underneath.
+## The Insight — the frame they haven't seen. The sideways angle.
+## The Evidence — research, story, data, or lived experience that proves it
+## The Takeaway — what they do, think, or see differently after reading this
+## CTA         — where the conversation continues
 ```
+
+The goal is never to be the loudest voice in the room.
+It's to be the one they're still thinking about at 2am.
 
 ---
 
-**Jodi Mac** · Founder & CEO, Work Simplr  
-[worksimplr.com](https://worksimplr.com) · [lifelab.one](https://lifelab.one) · [linkedin.com/in/jodimac](https://linkedin.com/in/jodimac)
+**Jodi Mac** · Founder & CEO, Work Simplr
+30+ years in EdTech. Builder. Storyteller. Perpetually curious.
+[worksimplr.com](https://worksimplr.com) · [lifelab.one](https://lifelab.one) · [linkedin.com/in/jodimac](https://linkedin.com/in/jodimac) · [github.com/JodiMac1521](https://github.com/JodiMac1521)
