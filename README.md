@@ -1,3 +1,10 @@
+<div align="center">
+
+**The writer who asks why before asking how.**
+*Well-researched thought leadership · Ghostwriting · Curiosity over noise*
+
+</div>
+
 # Work Simplr — Content Sample Library
 
 ![Curiosity over Noise — Jodi Mac](./assets/banner.png)
