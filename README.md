@@ -27,6 +27,14 @@ This is the antithesis of the typical POV. No listicles disguised as strategy. N
 
 ---
 
+## The Writing Journey
+
+Every voice has an origin story. Mine started in 6th grade with a deeply researched article on french fries.
+
+→ [Read the piece that started it all](./writing-samples/french-fries-the-origin-story.md)
+
+---
+
 ## Categories
 
 | | Category | What It Covers |
